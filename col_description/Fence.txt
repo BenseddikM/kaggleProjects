@@ -1,0 +1,5 @@
+count       281
+unique        4
+top       MnPrv
+freq        157
+Name: Fence, dtype: object

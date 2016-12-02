@@ -1,0 +1,5 @@
+count     1460
+unique       5
+top         RL
+freq      1151
+Name: MSZoning, dtype: object

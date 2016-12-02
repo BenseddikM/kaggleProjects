@@ -1,0 +1,5 @@
+count     1460
+unique       2
+top          Y
+freq      1365
+Name: CentralAir, dtype: object

@@ -1,0 +1,5 @@
+count      1460
+unique       25
+top       NAmes
+freq        225
+Name: Neighborhood, dtype: object

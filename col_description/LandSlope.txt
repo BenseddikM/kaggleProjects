@@ -1,0 +1,5 @@
+count     1460
+unique       3
+top        Gtl
+freq      1382
+Name: LandSlope, dtype: object

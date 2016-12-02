@@ -1,0 +1,5 @@
+count     1460
+unique       5
+top         TA
+freq      1282
+Name: ExterCond, dtype: object

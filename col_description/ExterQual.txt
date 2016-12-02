@@ -1,0 +1,5 @@
+count     1460
+unique       4
+top         TA
+freq       906
+Name: ExterQual, dtype: object

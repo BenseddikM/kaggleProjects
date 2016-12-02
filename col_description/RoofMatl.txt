@@ -1,0 +1,5 @@
+count        1460
+unique          8
+top       CompShg
+freq         1434
+Name: RoofMatl, dtype: object

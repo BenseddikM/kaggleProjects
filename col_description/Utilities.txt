@@ -1,0 +1,5 @@
+count       1460
+unique         2
+top       AllPub
+freq        1459
+Name: Utilities, dtype: object

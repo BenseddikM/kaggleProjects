@@ -1,0 +1,5 @@
+count     1460
+unique       3
+top          Y
+freq      1340
+Name: PavedDrive, dtype: object

@@ -1,0 +1,5 @@
+count      1460
+unique        6
+top       PConc
+freq        647
+Name: Foundation, dtype: object

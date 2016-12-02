@@ -1,0 +1,5 @@
+count     770
+unique      5
+top        Gd
+freq      380
+Name: FireplaceQu, dtype: object

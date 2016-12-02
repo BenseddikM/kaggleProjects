@@ -1,0 +1,5 @@
+count     1422
+unique       4
+top         No
+freq       953
+Name: BsmtExposure, dtype: object

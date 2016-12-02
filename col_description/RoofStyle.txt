@@ -1,0 +1,5 @@
+count      1460
+unique        6
+top       Gable
+freq       1141
+Name: RoofStyle, dtype: object

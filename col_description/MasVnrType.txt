@@ -1,0 +1,5 @@
+count     1452
+unique       4
+top       None
+freq       864
+Name: MasVnrType, dtype: object

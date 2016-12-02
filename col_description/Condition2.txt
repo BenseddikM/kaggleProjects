@@ -1,0 +1,5 @@
+count     1460
+unique       8
+top       Norm
+freq      1445
+Name: Condition2, dtype: object

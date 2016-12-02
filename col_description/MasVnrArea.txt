@@ -1,0 +1,9 @@
+count    1452.000000
+mean      103.685262
+std       181.066207
+min         0.000000
+25%              NaN
+50%              NaN
+75%              NaN
+max      1600.000000
+Name: MasVnrArea, dtype: float64

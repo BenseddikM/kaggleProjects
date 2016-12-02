@@ -1,0 +1,5 @@
+count     1460
+unique       4
+top        Reg
+freq       925
+Name: LotShape, dtype: object

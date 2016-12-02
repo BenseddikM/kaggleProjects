@@ -1,0 +1,5 @@
+count     1460
+unique       6
+top       GasA
+freq      1428
+Name: Heating, dtype: object

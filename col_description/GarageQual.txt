@@ -1,0 +1,5 @@
+count     1379
+unique       5
+top         TA
+freq      1311
+Name: GarageQual, dtype: object

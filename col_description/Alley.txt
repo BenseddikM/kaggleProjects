@@ -1,0 +1,5 @@
+count       91
+unique       2
+top       Grvl
+freq        50
+Name: Alley, dtype: object

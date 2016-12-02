@@ -1,0 +1,5 @@
+count     1460
+unique       9
+top         WD
+freq      1267
+Name: SaleType, dtype: object

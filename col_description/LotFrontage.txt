@@ -1,0 +1,9 @@
+count    1201.000000
+mean       70.049958
+std        24.284752
+min        21.000000
+25%              NaN
+50%              NaN
+75%              NaN
+max       313.000000
+Name: LotFrontage, dtype: float64

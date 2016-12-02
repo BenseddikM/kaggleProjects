@@ -1,0 +1,5 @@
+count     1460
+unique       4
+top        Lvl
+freq      1311
+Name: LandContour, dtype: object

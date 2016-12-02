@@ -1,0 +1,5 @@
+count        1460
+unique         16
+top       VinylSd
+freq          504
+Name: Exterior2nd, dtype: object

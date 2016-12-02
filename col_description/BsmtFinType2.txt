@@ -1,0 +1,5 @@
+count     1422
+unique       6
+top        Unf
+freq      1256
+Name: BsmtFinType2, dtype: object

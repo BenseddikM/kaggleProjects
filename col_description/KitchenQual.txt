@@ -1,0 +1,5 @@
+count     1460
+unique       4
+top         TA
+freq       735
+Name: KitchenQual, dtype: object

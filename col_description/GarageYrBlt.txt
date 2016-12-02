@@ -1,0 +1,9 @@
+count    1379.000000
+mean     1978.506164
+std        24.689725
+min      1900.000000
+25%              NaN
+50%              NaN
+75%              NaN
+max      2010.000000
+Name: GarageYrBlt, dtype: float64

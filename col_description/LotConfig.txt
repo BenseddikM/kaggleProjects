@@ -1,0 +1,5 @@
+count       1460
+unique         5
+top       Inside
+freq        1052
+Name: LotConfig, dtype: object

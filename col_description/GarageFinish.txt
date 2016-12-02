@@ -1,0 +1,5 @@
+count     1379
+unique       3
+top        Unf
+freq       605
+Name: GarageFinish, dtype: object

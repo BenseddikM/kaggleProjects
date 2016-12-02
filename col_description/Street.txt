@@ -1,0 +1,5 @@
+count     1460
+unique       2
+top       Pave
+freq      1454
+Name: Street, dtype: object

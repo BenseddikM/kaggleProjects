@@ -1,0 +1,5 @@
+count     1379
+unique       5
+top         TA
+freq      1326
+Name: GarageCond, dtype: object

@@ -1,0 +1,5 @@
+count       1379
+unique         6
+top       Attchd
+freq         870
+Name: GarageType, dtype: object

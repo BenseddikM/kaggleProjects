@@ -1,0 +1,5 @@
+count     1460
+unique       5
+top         Ex
+freq       741
+Name: HeatingQC, dtype: object

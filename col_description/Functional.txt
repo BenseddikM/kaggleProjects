@@ -1,0 +1,5 @@
+count     1460
+unique       7
+top        Typ
+freq      1360
+Name: Functional, dtype: object

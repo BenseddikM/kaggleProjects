@@ -1,0 +1,5 @@
+count     1460
+unique       5
+top       1Fam
+freq      1220
+Name: BldgType, dtype: object

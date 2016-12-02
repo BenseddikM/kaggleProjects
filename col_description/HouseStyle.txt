@@ -1,0 +1,5 @@
+count       1460
+unique         8
+top       1Story
+freq         726
+Name: HouseStyle, dtype: object

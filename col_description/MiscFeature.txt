@@ -1,0 +1,5 @@
+count       54
+unique       4
+top       Shed
+freq        49
+Name: MiscFeature, dtype: object

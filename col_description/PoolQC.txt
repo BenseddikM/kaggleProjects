@@ -1,0 +1,5 @@
+count      7
+unique     3
+top       Gd
+freq       3
+Name: PoolQC, dtype: object

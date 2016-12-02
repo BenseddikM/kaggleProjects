@@ -1,0 +1,5 @@
+count       1460
+unique         6
+top       Normal
+freq        1198
+Name: SaleCondition, dtype: object
